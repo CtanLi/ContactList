@@ -2,5 +2,5 @@
     <string name="app_name">Assignment</string>
     <string name="text">DISPLAY EACH RANDOM USER CONTACTS HERE</string>
     <string name="btnText">CLICK TO DISPLAY CONTACTS</string>
-    <string name="text1">CONTACTS</string>
+    <string name="text1">CLICK TO GET EACH RANDOM CONTACTS</string>
 </resources>
